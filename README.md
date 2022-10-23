@@ -1,3 +1,3 @@
 # SRP
 
-Firectory for couurse Sigurnost Računala i Podataka
+Directory for course Sigurnost Računala i Podataka
