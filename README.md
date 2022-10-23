@@ -1,3 +1,3 @@
 # SRP
 
-Directory for course Sigurnost Računala i Podataka
+Repo for course Computer and Data Security
